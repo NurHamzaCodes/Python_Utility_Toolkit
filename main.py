@@ -13,3 +13,5 @@ def opening():
 if __name__ == "__main__":
     choice = opening()
     work.works(choice)
+
+    print()
